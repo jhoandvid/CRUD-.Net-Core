@@ -1,0 +1,15 @@
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.deps.json
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.dll
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\ref\MyMusic.Core.dll
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.pdb
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.csproj.AssemblyReference.cache
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfoInputs.cache
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfo.cs
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.dll
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\ref\MyMusic.Core.dll
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.pdb
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.runtimeconfig.json
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\bin\Debug\net5.0\MyMusic.Core.runtimeconfig.dev.json
+D:\CURSOS\Trabajo\Herramienta\MyMusic.Api\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.genruntimeconfig.cache
